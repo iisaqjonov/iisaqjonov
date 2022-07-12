@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ilhomjon 19 years old
+- 👀 I’m interested in creating websites
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on real projects to gain experience and find a good team
+- 📫 How to reach me - Telegram account: @Ilhomjon_Isaqjonov | Email: iisoqjonov21@gmail.com
+- Tech: FrontEnd - HTML | CSS | Javascript | ReactJS; BackEnd - NodeJS | MongoDB | Express | Mongoose
